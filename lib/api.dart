@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:youtube_app/model/video.dart';
 
-const API_KEY = "" // insira a KEY;
+const API_KEY = ""; // insira a KEY
 
 class Api {
 
